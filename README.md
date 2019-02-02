@@ -5,11 +5,13 @@
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 [![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
 
-# Angular2 Cookie Law
+# Angular2 Cookie Law with Angular Universal (SSR) Support
 
 > Angular2+ component that provides a banner to inform users about the cookie law now with Angular Universal support
 
 Angular2 Cookie Law is an HTML `<cookie-law>` tag enhanced with styling and animation.
+
+** THIS IS A FORK WHICH WILL SET INITIAL STATE OF seee=true SO THAT WHEN SSR VERSION IS RENDERED THE NOTICE IS NOT DISPLAYED
 
 **This documentation is for the latest version of `angular2-cookie-law` (>=6.x.x).**
 
