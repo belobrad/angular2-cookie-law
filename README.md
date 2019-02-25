@@ -11,7 +11,7 @@
 
 Angular2 Cookie Law is an HTML `<cookie-law>` tag enhanced with styling and animation.
 
-**THIS IS A FORK WHICH WILL SET THE INITIAL STATE OF `seee=true` SO THAT WHEN SSR VERSION IS RENDERED THE NOTICE IS NOT DISPLAYED BY DEFAULT AND CAN BE DISPLAYED IN THE BROWSER INSTEAD THUS PREVENTING THE INITIAL FLICKERING**
+**THIS IS A FORK OF AN AWESOME [andreasonny83/angular2-cookie-law](https://github.com/andreasonny83/angular2-cookie-law) WHICH WILL SET THE INITIAL STATE OF `seen=true` SO THAT WHEN SSR VERSION IS RENDERED THE NOTICE IS NOT DISPLAYED BY DEFAULT AND CAN BE DISPLAYED IN THE BROWSER INSTEAD THUS PREVENTING THE INITIAL FLICKERING**
 
 **This documentation is for the latest version of `angular2-cookie-law` (>=6.x.x).**
 
